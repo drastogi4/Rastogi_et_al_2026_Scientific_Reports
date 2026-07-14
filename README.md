@@ -1,5 +1,5 @@
 
-# Code for Evaluating Methodological Uncertainty in High-Resolution Temperature Extremes and Their Regional Implications*
+# Code for Evaluating Methodological Uncertainty in High-Resolution Temperature Extremes and Their Regional Implications
 
 ## Overview
 
